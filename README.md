@@ -1,4 +1,6 @@
-This is where I will be collecting all my tips on problem solving. Right now, it's far from complete so bookmark it to come back later.
+_Last updated: 12th July 2020_ 
+
+This is an **incomplete** list of all my tips on problem solving. It's far from complete so bookmark it (with the date) to come back later.
 
 # Ray's Tips for Problem Solving
 
